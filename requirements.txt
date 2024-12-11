@@ -1,0 +1,17 @@
+# Do wykonywania zapytań HTTP do API LibreView
+requests
+
+# Do bezpiecznego przechowywania danych logowania w pliku .env
+python-dotenv
+
+# Do tworzenia interaktywnych wykresów
+plotly
+
+# Do analizy i przetwarzania danych z CSV
+pandas>=2.1.0
+
+# Do stworzenia prostego serwera web do wyświetlania wykresów
+flask>=3.0.0
+
+# Biblioteka do obsługi API LibreLinkUp
+pylibrelinkup

@@ -1,0 +1,7 @@
+{
+    "glucose_threshold": 140,
+    "points_thresholds": {
+        "medium": 500,
+        "high": 1000
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "version": "0.2",
+    "language": "en,pl",
+    "dictionaryDefinitions": [
+        {
+            "name": "pl-pl",
+            "path": "./hunspell/pl_pl.dic",
+            "addWords": true
+        }
+    ],
+    "dictionaries": ["pl-pl"],
+    "ignorePaths": [
+        "node_modules/**"
+    ],
+    "words": [
+        "libreview",
+        "plotly",
+        "dotenv"
+    ],
+    "ignoreRegExpList": [
+        "// .*[ąćęłńóśźżĄĆĘŁŃÓŚŹŻ].*$"
+    ]
+}

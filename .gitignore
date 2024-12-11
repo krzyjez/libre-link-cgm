@@ -1,0 +1,21 @@
+# Katalogi z danymi (nie trzymamy danych w repozytorium)
+data/source/
+data/processed/
+data/user/
+
+# Cache Pythona (pliki tymczasowe)
+__pycache__/
+*.pyc
+*.pyo
+
+# Środowisko wirtualne (jeśli używane)
+venv/
+env/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
